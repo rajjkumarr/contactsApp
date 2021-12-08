@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.list1-containers {
+  display: flex;
+  list-style-type: none;
+  margin-left: 30px;
+}
+
+.para1 {
+  font-size: 20px;
+  color: blue;
+  font-family: 'Roboto';
+  font-weight: 400;
+  border: 0px;
+  margin-bottom: 15px;
+}
+.line {
+  color: #475569;
+  height: 1px;
+  width: 100%;
+}
+
+.icon {
+  height: 15px;
+  width: 15px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
